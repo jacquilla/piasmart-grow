@@ -1,0 +1,37 @@
+Berikut adalah daftar kemampuan (skill) yang saya miliki sebagai AI Coding Assistant (Antigravity):
+
+1. Analisis & Eksplorasi Berkas:
+   - Melihat dan membaca konten berkas (view_file).
+   - Mencari pola/teks spesifik di dalam direktori menggunakan ripgrep (grep_search).
+   - Menjelajahi dan melihat daftar berkas dalam suatu direktori (list_dir).
+
+2. Pengeditan & Penulisan Kode:
+   - Membuat berkas baru atau menulis ulang berkas sepenuhnya (write_to_file).
+   - Melakukan perubahan kode secara spesifik, baik pada satu bagian blok (replace_file_content) maupun secara massal di berbagai baris dalam satu berkas (multi_replace_file_content).
+
+3. Eksekusi Lingkungan & Terminal:
+   - Menjalankan perintah terminal atau command prompt/powershell secara langsung di dalam workspace (run_command).
+   - Mengontrol dan memanajemen jalannya proses di latar belakang (manage_task).
+
+4. Browser & Web Interaction:
+   - Melakukan pencarian di internet untuk mencari dokumentasi atau solusi terbaru (search_web).
+   - Membaca isi halaman web secara langsung (read_url_content).
+   - Mengerahkan sub-agen browser otomatis untuk mengetes navigasi, mengambil screenshot, atau berinteraksi secara visual dengan aplikasi web (browser_subagent).
+
+5. Desain & Gambar:
+   - Menghasilkan aset gambar, ilustrasi, atau mockup UI berdasarkan teks (generate_image).
+
+6. Penjadwalan:
+   - Menjadwalkan cron job atau timer (pengingat) yang berjalan di latar belakang (schedule).
+
+7. Plugin Tambahan Terinstal:
+   - chrome-devtools-plugin: Otomatisasi, inspeksi mendalam, dan analisis performa menggunakan Chrome DevTools dan Puppeteer.
+   - firebase: Dukungan khusus untuk proyek berbasis Firebase.
+   - google-antigravity-sdk: Dukungan tools pengembangan internal.
+   - modern-web-guidance-plugin: Kumpulan arahan dan pedoman praktik pengembangan web terkini.
+
+8. Slash Commands yang Bisa Digunakan:
+   - /goal : Meminta saya mengerjakan tugas berat tanpa henti hingga selesai.
+   - /schedule : Menjalankan perintah berdasarkan jadwal berulang.
+   - /grill-me : Sesi interaktif untuk merencanakan arsitektur atau keputusan desain.
+   - /learn : Mengajarkan saya preferensi agar dapat digunakan pada tugas mendatang.

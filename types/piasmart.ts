@@ -1,5 +1,6 @@
 export interface GenerateMissionRequest {
   murid_id: string;
+  catatan_guru: string;
   jawaban_ortu: string;
 }
 
